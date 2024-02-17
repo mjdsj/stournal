@@ -11,18 +11,18 @@ For now, I will create a logical diagram for the project. Later I will posted it
 ## Here is the Road Map:
 ### Need to integrate services/micro-components of the following like:
 
-Note
-Calculator (all kind)
-Graph creation
-Simulator (that will based on the observation instruction)
-Report Generation
+1. Note
+2. Calculator (all kind)
+3. Graph creation
+4. Simulator (that will based on the observation instruction)
+5. Report Generation
 
 ### Extras:
 AI for documentation making
 
 ### Extensions:
-AI of specific study
-Google Scholar Web Integration ? sort of
-Internet Archives (for library)
+1. AI of specific study
+2. Google Scholar Web Integration ? sort of
+3. Internet Archives (for library)
 
 I can't really do much because of the work. but I will do my best.
